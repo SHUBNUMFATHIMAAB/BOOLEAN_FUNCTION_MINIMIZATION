@@ -65,8 +65,6 @@ RegisterNumber:212225240147
 ![alt text](image.png)
 **Output:**
 ![alt text](image-1.png)
-**RTL**
-![alt text](image-2.png)
 **Result:**
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
